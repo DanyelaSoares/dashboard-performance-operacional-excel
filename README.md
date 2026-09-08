@@ -1,4 +1,4 @@
-# dashboard-performance-operacional-excel# 📈 Dashboard de Performance Operacional — Excel
+# 📈 Dashboard de Performance Operacional — Excel
 
 Projeto desenvolvido para estudo e demonstração prática de conhecimentos em **Microsoft Excel**, simulando o acompanhamento de demandas e indicadores operacionais de uma empresa.
 
